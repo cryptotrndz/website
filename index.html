@@ -1,0 +1,58 @@
+---
+#
+# By default, content added below the "---" mark will appear in the home page
+# between the top bar and the list of recent posts.
+# To change the home page layout, edit the _layouts/home.html file.
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+#
+
+layout: base
+---
+
+{% for post in paginator.posts %}
+<p class="author">
+  <span class="post-meta">{{ post.date | date: "%b %-d, %Y"}}</span>
+</p>
+<h3>
+  <a class="post-link" href="{{ post.url | relative_url }}">
+    {{ post.title | escape }}
+  </a>
+</h3>
+<div class="content">
+  {{ post.content | strip_html | truncatewords:75 }}
+</div>
+<br>
+{% endfor %}
+
+<!-- Pagination links -->
+<div class="pagination">
+  <br>
+  <h3>
+
+  {% if paginator.page > 1 %}
+  <a href="{{ '/' | relative_url }}" class="last">( First )</a>
+  {% endif %}
+
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">
+      [ Prev ]
+    </a>
+  {% else %}
+    <span class="previous">📑</span>
+  {% endif %}
+  <span class="page_number ">
+    &nbsp;&nbsp; {{ paginator.page }} / {{ paginator.total_pages }}&nbsp;&nbsp;
+  </span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">[ Next ]</a>
+  {% else %}
+    <span class="next ">🚧</span>
+  {% endif %}
+
+  <!-- Last Page -->
+  {% if paginator.page < paginator.total_pages %}
+  <a href="{{ site.paginate_path | replace: ':num', paginator.total_pages | relative_url }}" class="last">( Last )</a>
+    {% endif %}
+  </h3>
+
+</div>

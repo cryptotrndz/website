@@ -1,0 +1,23 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  {% if page.keywords %}
+  <meta name="keywords" content="{{ page.keywords }}" />
+  {% else %}
+  <meta name="keywords" content="crypto, cryptos, cryptocurrency, cryptocurrencies, etheruem, eth, bitcoin, dex, dao, nft, defi, mining, investment, web3, blockchain, blockchains, btc, solana, dao, altcoins, airdrop, cryptotrendz, trends, bearmarket, smartconracts, layer0, erc20, layer2, onchain, offchain, minting, wallet, payments, liquidity, staking, pow, dapps, protocol, chains, zkrollup, token, tokenomics, derivatives" />
+  {% endif %}
+
+  {%- seo -%}
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  {%- feed_meta -%}
+  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+    {%- include google-analytics.html -%}
+  {%- endif -%}
+
+  {%- include custom-head.html -%}
+  
+</head>
