@@ -5,21 +5,14 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col">
-        <p class="feed-subscribe">📚 Feel safe to
-          <a href="{{ site.feed.path | default: 'feed.xml' | absolute_url }}">
-            <span>subscribe to feeds</span>
+
+        <p class="feed-subscribe">📬 Feel free to
+          <a class="u-email" href="mailto:{{ site.author.email }}">
+            <span>contact us on email</span>
           </a>
         </p>
-      {%- if site.author %}
-        <ul class="contact-list">
-          {% if site.author.name -%}
-            <li class="p-name"></li>
-          {% endif -%}
-          {% if site.author.email -%}
-            <li>📬 Feel free to <a class="u-email" href="mailto:{{ site.author.email }}">contact us on email</a></li>
-          {%- endif %}
-        </ul>
-      {%- endif %}
+        <p class="feed-subscribe">📚 or subscribe to icons given below
+        </p>
       </div>
       <div class="footer-col">
         <p>{{ site.description | escape }}</p>
