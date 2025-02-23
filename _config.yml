@@ -21,6 +21,7 @@ plugins:
 # Addons
 header_pages:
   - about.md
+  - terms.md
   - privacy.md
 
 # Skin
