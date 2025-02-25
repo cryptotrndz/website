@@ -1,7 +1,13 @@
 User-agent: GPTBot
+Allow: /about/
+Allow: /terms/
+Allow: /privacy/
 Disallow: /
 
 User-agent: ChatGPT-User
+Allow: /about/
+Allow: /terms/
+Allow: /privacy/
 Disallow: /
 
 User-agent: *
