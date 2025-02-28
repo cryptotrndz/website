@@ -46,19 +46,18 @@ minima:
    - title: Quora
      icon: quora
      url: "https://CryptoTrendz.quora.com"
+   - title: X (formerly Twitter)
+     icon: x-twitter
+     url: "https://x.com/CryptoTrndz"
+   - title: Instagram
+     icon: instagram
+     url: "https://www.instagram.com/cryptotrndz/"
    - title: RSS Feeds
      icon: readme
      url: "https://cryptoTrendz.echtops.com/feed.xml"
-   - title: Launching Soon on Instagram
-     icon: instagram
-     url: "https://www.instagram.com/cryptotrndz/"
-   - title: Launching Soon on X (formerly Twitter)
-     icon: instagram
-     icon: x-twitter
-     url: "https://x.com/CryptoTrndz"
 
 # Let's Paginate
-paginate: 7
+paginate: 8
 paginate_path: "/page:num/"
 
 ## Showtime :)
