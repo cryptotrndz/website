@@ -15,7 +15,7 @@ categories: weekly
 🔍 infrastructure for restaking.
 
  - **Geodnet** secures 💵 $8m (Strategic) ✨️ from Multicoin Capital *(and 2 others, viz ParaFi Capital, Digital Asset Capital Management)* *([source](https://geodnet.com/detail/384361740379637693){:target="_blank"})*.  
-🔍 RTK (Real-Time Kinematics) enables a 100x improvement in position accuracy as compared to standalone GPS. GEODNET\'s global RTK Network naturally complements on-device sensors such as Cameras, LiDAR, and IMU\'s to power AI-based Autonomous Systems..
+🔍 RTK (Real-Time Kinematics) enables a 100x improvement in position accuracy as compared to standalone GPS. GEODNET\'s global RTK Network naturally complements on-device sensors such as Cameras, LiDAR, and IMU\'s to power AI-based Autonomous Systems.
 
  - **Bitwise** secures 💵 $70m ✨️ from Confidential *(and 11 others, viz Electric Capital, MMVentures, MIT Investment Managament Company, Highland Capital Partners, Haun Ventures, ParaFi Capital, Khosla Ventures, General Catalyst, B.lc, Blockchain Coinvestors, Nikesh Arora)* *([source](https://x.com/BitwiseInvest/status/1894389259752341811){:target="_blank"})*.  
 🔍 Bitwise is a crypto asset management firm.
