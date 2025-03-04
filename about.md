@@ -4,20 +4,26 @@ title: About Us
 permalink: /about/
 ---
 
-### 🔍 Hello Readers :
+After qualifying the authentic entities, We are serving curated digests for cryptos and web3.
 
-We are delivering Fresh, Curated and organic digests for cryptos and web3 to your device.  
+### 🔍 Our Process :
 
-### ✨ Our Intent :
+We process gigabytes of both on-chain and off-chain data on daily basis, to filter out the noise from web3 and crypto. The information we serve is well researched and validated by both humans and AI. 
 
-We want our subscribers to stay updated in the Industry because The Crypto and Web3 world is moving faster than the human capacity to absorb.
+Our team is comprised of Ex-Google (DeepMind) Engineers and Ex-Contributors of some major blockchains.  
+
 
 ### 🗓️ Our Calender:
 
 🔹Latest CryptoTrendz ~ Daily - 4 times/day (🟢)  
-🔹Organic Blockchains of the Week ~ Every Monday (🟢)  
+🔹Blockchains of the Week ~ Every Monday (🟢)  
 🔹Upcoming Token Unlocks ~ Every Tuesday (🟢)  
-🔹Top Web3 Fundraising Highlights ~ Every Thursday (🟢)  
+🔹Web3 Fundraising Highlights ~ Every Thursday (🟢)  
 🔹Recently Listed "Genuine" Protocols ~ Launching Soon...  
   
-📻 We are slightly improving the features as per readers request, Stay tuned...
+
+### 📬 Contact Us:  
+
+For Partnership, Crypto AI Services or Any Enquiry, We’re here to help. You may reach out to us at [connect@echtops.com](mailto:connect@echtops.com).
+
+Thank you for trusting CryptoTrendz. 😊
