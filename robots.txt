@@ -1,3 +1,13 @@
+User-agent: googlebot
+Allow: /
+Sitemap: https://cryptotrendz.echtops.com/sitemap.xml
+
+User-agent: Google-Extended
+Allow: /about/
+Allow: /terms/
+Allow: /privacy/
+Disallow: /
+
 User-agent: GPTBot
 Allow: /about/
 Allow: /terms/
@@ -10,5 +20,102 @@ Allow: /terms/
 Allow: /privacy/
 Disallow: /
 
+User-agent: Amazonbot
+Allow: /about/
+Allow: /terms/
+Allow: /privacy/
+Disallow: /
+
+User-agent: anthropic-ai
+Allow: /about/
+Allow: /terms/
+Allow: /privacy/
+Disallow: /
+
+User-agent: Applebot
+Allow: /about/
+Allow: /terms/
+Allow: /privacy/
+Disallow: /
+
+User-agent: Claude-Web
+Allow: /about/
+Allow: /terms/
+Allow: /privacy/
+Disallow: /
+
+User-agent: cohere-ai
+Allow: /about/
+Allow: /terms/
+Allow: /privacy/
+Disallow: /
+
+User-agent: CCBot
+Allow: /about/
+Allow: /terms/
+Allow: /privacy/
+Disallow: /
+
+User-agent: Diffbot
+Allow: /about/
+Allow: /terms/
+Allow: /privacy/
+Disallow: /
+
+User-agent: ImagesiftBot 
+Allow: /about/
+Allow: /terms/
+Allow: /privacy/
+Disallow: /
+
+User-agent: YouBot
+Allow: /about/
+Allow: /terms/
+Allow: /privacy/
+Disallow: /
+
+User-agent: omgilibot
+Allow: /about/
+Allow: /terms/
+Allow: /privacy/
+Disallow: /
+
+User-agent: omgili
+Allow: /about/
+Allow: /terms/
+Allow: /privacy/
+Disallow: /
+
+User-agent: PerplexityBot
+Allow: /about/
+Allow: /terms/
+Allow: /privacy/
+Disallow: /
+
+User-agent: Bytespider
+Allow: /about/
+Allow: /terms/
+Allow: /privacy/
+Disallow: /
+
+User-agent: FacebookBot
+Allow: /about/
+Allow: /terms/
+Allow: /privacy/
+Disallow: /
+
+User-agent: Twitterbot
+Allow: /about/
+Allow: /terms/
+Allow: /privacy/
+Disallow: /
+
+User-agent: ia_archiver
+Allow: /about/
+Allow: /terms/
+Allow: /privacy/
+Disallow: /
+
 User-agent: *
-Sitemap: cryptotrendz.echtops.com/sitemap.xml
+Allow: /
+Sitemap: https://cryptotrendz.echtops.com/sitemap.xml
