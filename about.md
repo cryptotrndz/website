@@ -4,13 +4,11 @@ title: About Us
 permalink: /about/
 ---
 
-After qualifying the authentic entities, We are serving curated digests for cryptos and web3.
+We are serving curated and authentic digests for blockchain and web3 to our beloved readers. It's curated because we respect your precious time, and we are not charging a penny for this.  
 
-### 🔍 Our Process :
+### 🔍 Our Process :  
 
-We process gigabytes of both on-chain and off-chain data on daily basis, to filter out the noise from web3 and crypto. The information we serve is well researched and validated by both humans and AI. 
-
-Our team is comprised of Ex-Google (DeepMind) Engineers and Ex-Contributors of some major blockchains.  
+We process lot of blockchain data (both on-chain and off-chain) on daily basis, to filter out the noise from web3 and crypto. Where, the information we serve is well researched and validated.  
 
 
 ### 🗓️ Our Calender:
