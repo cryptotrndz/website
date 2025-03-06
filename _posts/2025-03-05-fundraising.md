@@ -8,7 +8,6 @@ categories: weekly
 
 ##### ✴ **Here are the valuable Web3 projects that secured funding this week:**
 
-
 ##### ⏰️ **04 Mar 2025**  
 
  - **Across Protocol** secures 💵 $41m ✨️ from Paradigm *(and 3 others, viz Bain Capital Crypto, Coinbase Ventures, Multicoin Capital)* *([source](https://x.com/AcrossProtocol/status/1896931977590374661){:target="_blank"})*.  
@@ -18,7 +17,7 @@ categories: weekly
 🔍 Infrared is an application for the Proof of Liquidity (PoL) consensus mechanism within the Berachain ecosystem.
 
  - **Coral Finance** secures 💵 $3m (Angel Round) ✨️ from Confidential *(and 6 others, viz Taisu Ventures, KuCoin Ventures, Gate Ventures, Web3Port , Formless Capital, Mask Network)* *([source](https://x.com/Coral_Finance/status/1896834847584436434){:target="_blank"})*.  
-🔍 \n.
+🔍 N.A.
 
  - **Flowdesk** secures 💵 $52m (Series B) ✨️ from HV Capital, BlackRock *(and 3 others, viz Eurazeo, Cathay Innovation, Isai)* *([source](https://x.com/flowdesk_co/status/1896863028093632691){:target="_blank"})*.  
 🔍 Flowdesk is a French crypto market maker offering a suite of crypto-financial services.
@@ -34,7 +33,7 @@ categories: weekly
 🔍 aims to develop a peer-to-peer compute and intelligence protocol, building on their mission to make AI and computing resources universally accessible.
 
  - **Acki Nacki** secures 💵 $6m ✨️ from Confidential *(and 5 others, viz Kingsway Capital, K5 Global, Hack VC, Blockchain.com Ventures, Original Capital)* *([source](https://x.com/ackinackichain/status/1895488253408555214){:target="_blank"})*.  
-🔍 Acki Nacki\xe2\x80\x99s blockchain uses a "Bitcoin for Proof of Stake" model, mining $NACKL tokens.
+🔍 Acki Nacki's blockchain uses a "Bitcoin for Proof of Stake" model, mining $NACKL tokens.
 
  - **ACID Labs** secures 💵 $8m ✨️ from a16z Games, NFX *(and 1 others, viz Fusion VC)* *([source](https://decrypt.co/308319/acid-labs-raises-8m-from-a16z-speedrun-nfx-to-scale-instant-social-games-on-chatapps){:target="_blank"})*.  
 🔍 a leader in instant social gaming on messaging platforms.
