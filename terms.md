@@ -35,4 +35,7 @@ Violation of this Policy may result in:
 We reserve the right to modify this Policy at any time without prior notice. Continued use of the Website after changes are made constitutes acceptance of the updated terms.
 
 ### 7. Contact Information  
-For inquiries regarding data usage or to request permissions, contact us at [connect@echtops.com](mailto:connect@echtops.com).
+For inquiries regarding data usage or to request permissions, contact us at  
+📧 [connect@echtops.com](mailto:connect@echtops.com) .
+
+*Thank you for trusting CryptoTrendz*. 😊  

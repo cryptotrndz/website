@@ -34,6 +34,7 @@ We implement appropriate security measures to protect your personal information 
 
 ### 7. Contact Us
 
-If you have any questions or concerns about this privacy policy, You may reach out to us at [connect@echtops.com](mailto:connect@echtops.com).
+If you have any questions or concerns about this privacy policy, You may reach out to us at   
+📧 [connect@echtops.com](mailto:connect@echtops.com).
 
-Thank you for trusting CryptoTrendz. 😊  
+*Thank you for trusting CryptoTrendz*. 😊  
