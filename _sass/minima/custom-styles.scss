@@ -2,43 +2,80 @@
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 
 .tag {
-    background: #f0f0f0;
-    color: #333;
-    padding: 4px 8px;
-    margin: 2px;
-    border-radius: 4px;
-    text-decoration: none;
-    font-size: 0.9em;
-    display: inline-block;
-    transition: background 0.3s;
-  }
-  
-.tag:hover {
-  background: #3498db;
-  color: #fff;
+  background: #f0f0f0;
+  color: #333;
+  padding: 4px 8px;
+  margin: 2px;
+  border-radius: 4px;
+  text-decoration: none;
+  font-size: 0.9em;
+  display: inline-block;
+  transition: background 0.3s;
 }
 
+.tag:hover {
+background: #3498db;
+color: #fff;
+}
+
+// Under Progress // Do notuse Now // 
+
 // Blue Eye Filter Body BG
-body {background-color: hsla(60, 100%, 98.5%, 0.89);}
+body {background-color: #282a36; color: #f8f8f2;}
 
 // Nav Bar 
-a.site-title, a.site-title:visited , a.site-title:hover { color:  #9900cc; }
-a.page-link:hover{ color:  #cc6600; }
+a.site-title, a.site-title:visited , a.site-title:hover { color:  #bd93f9; }
+
+a.page-link, a.page-link:visited { color:  #ff79c6; }
+a.page-link:hover { color:  #2bd191 ; }
 
 // All Other Hyperlinks
-a:hover , a.post_link:hover { color:  #cc6600; }
+a{color: #ffb86c;}
+a:visited{color: #ffb86c;}
+a:hover , a.post_link:hover { color:  #ff79c6; }
 
 // Additional Page Related
-span.post-meta, time.dt-published { color : #595959 ; }
+span.post-meta, time.dt-published { color : #6272a4 ; }
 
 // Post Title Inside Posts
-h1.post-title.p-name , h1.post-title{ color:  #009973; }
+h1.post-title.p-name , h1.post-title{ color:  #2bd191; }
 .post-title { font-size: 1.8rem; }
 
 // Pagination
-a.next, a.previous, a.last, a.next:visited, a.previous:visited, a.last:visited { color: #009973; }
-a.next:hover, a.previous:hover, a.last:hover{ color:  #cc6600; }
+a.next, a.previous, a.last, a.next:visited, a.previous:visited, a.last:visited { color: #8be9fd; }
+a.next:hover, a.previous:hover, a.last:hover{ color:  #ff79c6; }
 
 // Footer
-p.feed-subscribe{ color:  #595959; }
-div.footer-col { color:  #9900cc; font-style: italic;}
+p.feed-subscribe{ color:  #2bd191; }
+div.footer-col { color:  #bd93f9; font-style: italic;}
+
+// Social Icons
+
+.social-media-list li a , .social-media-list li a:visited {border: 1px solid #2bd191 ; }
+.social-media-list li a:hover  {border: 1px solid #ff79c6 ; }
+
+table {
+width: 100%;
+border-collapse: collapse;
+color: #f8f8f2;
+border: 1px solid #ff79c6;
+padding: 8px;
+}
+
+table tr:nth-child(odd) {
+background-color: #44475a	; /* Light gray for odd rows */
+}
+
+table tr:nth-child(even) {
+background-color: #282a36; /* Slightly lighter gray for even rows */
+}
+
+table th, table td {
+//border: 1px solid #ff79c6;
+padding: 8px;
+}
+
+table th {
+background-color: #282a36;
+color: #ff79c6;
+}
