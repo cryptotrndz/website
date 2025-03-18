@@ -15,7 +15,7 @@ categories: weekly
 🔍 Mesh is a cryptoasset management and payment platform.
 
  - **Bubblemaps** secures 💵 $0.8m (Public token sale) ✨️ from Confidential 🏷️ at valuation $20m *([source](https://www.binance.com/en/events/bubblemaps-tge-rules){:target="_blank"})*.  
-🔍 Bubblemaps is a crypto analytical tool turning blockchain data into a powerful visual experience. It shows connections between a token\xe2\x80\x99s holders and helps identify team wallets, VCs, and insiders\xe2\x80\x94making it easier to understand the tokenomics and spot potential risks.
+🔍 Bubblemaps is a crypto analytical tool turning blockchain data into a powerful visual experience. It shows connections between a token\xe2\x80\x99s holders and helps identify team wallets, VCs, and insiders - making it easier to understand the tokenomics and spot potential risks.
 
  - **Arda Labs** secures 💵 $3m (Pre-Seed) ✨️ from Lightshift Capital *([source](https://x.com/SimaoCCruz/status/1899463738840793325){:target="_blank"})*.  
 🔍 Arda Labs is building a universal operating system for real estate, bringing property assets, finance, and data onto the blockchain.
