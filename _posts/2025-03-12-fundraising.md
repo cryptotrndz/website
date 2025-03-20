@@ -15,7 +15,7 @@ categories: weekly
 🔍 Mesh is a cryptoasset management and payment platform.
 
  - **Bubblemaps** secures 💵 $0.8m (Public token sale) ✨️ from Confidential 🏷️ at valuation $20m *([source](https://www.binance.com/en/events/bubblemaps-tge-rules){:target="_blank"})*.  
-🔍 Bubblemaps is a crypto analytical tool turning blockchain data into a powerful visual experience. It shows connections between a token\xe2\x80\x99s holders and helps identify team wallets, VCs, and insiders - making it easier to understand the tokenomics and spot potential risks.
+🔍 Bubblemaps is a crypto analytical tool turning blockchain data into a powerful visual experience. It shows connections between a token's holders and helps identify team wallets, VCs, and insiders - making it easier to understand the tokenomics and spot potential risks.
 
  - **Arda Labs** secures 💵 $3m (Pre-Seed) ✨️ from Lightshift Capital *([source](https://x.com/SimaoCCruz/status/1899463738840793325){:target="_blank"})*.  
 🔍 Arda Labs is building a universal operating system for real estate, bringing property assets, finance, and data onto the blockchain.
@@ -28,7 +28,7 @@ categories: weekly
 🔍 Obol is the largest decentralized operator ecosystem, with a mission to enhance the security of PoS L1 chains by replacing traditional validators, which often act as single points of failure, with Distributed Validators.
 
  - **Rakurai** secures 💵 $3m (Seed) ✨️ from Anagram *(and 7 others, viz Colosseum, Slow Ventures, Robot Ventures, Crypto.com Capital, P2P Capital, GlobalStake, Cyber Fund )* *([source](https://solanafloor.com/news/rakurai-raises-3-m-seed-round-to-accelerate-high-yield-staking-platform){:target="_blank"})*.  
-🔍 Rakurai is an infrastructure project focused on enhancing Solana\xe2\x80\x99s transaction throughput by developing high-performance validator nodes.
+🔍 Rakurai is an infrastructure project focused on enhancing Solana's transaction throughput by developing high-performance validator nodes.
 
  - **Sogni ai** secures 💵 $2m (Pre-Seed) ✨️ from Comma3 Ventures, Republic *(and 6 others, viz Coingecko Ventures, Formless Capital, Contango Digital Assets, DEXT Force Ventures, Oyster Ventures, Nosana Ventures)* *([source](https://x.com/Sogni_Protocol/status/1899516507714957492){:target="_blank"})*.  
 🔍 Sogni AI is a decentralized AI creative platform for generating HD images and videos, offering tools across web, desktop, and mobile.
