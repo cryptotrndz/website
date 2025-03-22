@@ -18,7 +18,7 @@ background: #3498db;
 color: #fff;
 }
 
-// Under Progress // Do notuse Now // 
+// Under Progress // Do not use Now // 
 
 // Blue Eye Filter Body BG
 body {background-color: #282a36; color: #f8f8f2;}
@@ -54,6 +54,7 @@ div.footer-col { color:  #bd93f9; font-style: italic;}
 .social-media-list li a , .social-media-list li a:visited {border: 1px solid #2bd191 ; }
 .social-media-list li a:hover  {border: 1px solid #ff79c6 ; }
 
+// Tables 
 table {
 width: 100%;
 border-collapse: collapse;
@@ -78,4 +79,70 @@ padding: 8px;
 table th {
 background-color: #282a36;
 color: #ff79c6;
+}
+
+// Default TableSorted 
+.tablesorter-default {
+width: 100%;
+border-collapse: collapse;
+color: #f8f8f2;
+border: 1px solid #ff79c6;
+padding: 8px;
+}
+
+.tablesorter-default tr:nth-child(odd) {
+background-color: #44475a	; /* Light gray for odd rows */
+}
+
+.tablesorter-default tr:nth-child(even) {
+background-color: #282a36; /* Slightly lighter gray for even rows */
+}
+
+.tablesorter-default th, .tablesorter-default td {
+//border: 1px solid #ff79c6;
+padding: 8px;
+}
+
+.tablesorter-default th {
+background-color: #282a36;
+color: #ff79c6;
+}
+  
+// TableSorting Pointer //
+.tablesorter-default th,
+.tablesorter-default thead td {
+	font-weight: bold;
+	color: #ff79c6;
+	// background-color: #fff;
+	border-collapse: collapse;
+	border-bottom: #ccc 2px solid;
+}
+.tablesorter-default tfoot th,
+.tablesorter-default tfoot td {
+	border: 0;
+}
+
+.tablesorter-default .header,
+.tablesorter-default .tablesorter-header {
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAJCAYAAADdA2d2AAAABHNCSVQICAgIfAhkiAAAAOBJREFUKJFjYCAC+Pn5pR49evS1o6NjIDHqCQJ/f//069ev/71z587/Gzdu/HRycgqiyEBfX9/Uq1ev/r1169b/27dv/7979+7/Gzdu/HRwcAjAp48Fn6S0tLT6smXLFjBCAAMjIyMDAwPDf2VlZd0DBw5soMjFpAJGfJKFhQWTxMTExaAuhLv0/v37t2bMmFGPSx9e71+/fuNKfHzCdDY2NiZGRkYGJiYmhl+/fv3KycmJIMMDCODh4ZF+8eLFv9euXft/4cKFn/b29pTFPgy4u7un7tq165WtrQ3eWIcBAKDWU/4RBh1uAAAAAElFTkSuQmCC);
+	background-position: center right;
+	background-repeat: no-repeat;
+	cursor: pointer;
+	white-space: normal;
+}
+.tablesorter-default thead .headerSortUp,
+.tablesorter-default thead .tablesorter-headerSortUp,
+.tablesorter-default thead .tablesorter-headerAsc {
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAECAYAAABhnXSoAAAABHNCSVQICAgIfAhkiAAAAHdJREFUGJVjYCACxMTElJ44ceKtn59fAjHq8QJGRkamkpKSSTdv3vx3586d/3fu3PmXlpZWQ0gfMz7J1tbWFTExMUmMEMDAyMjIaGNj48jFxSV05MiRHTgdg89QaWlpLW5ubl4klzMwMDAwfPr06d3z589v49IHAMmLJE1Ky+aRAAAAAElFTkSuQmCC);
+	border-bottom: #ff79c6 2px solid;
+}
+.tablesorter-default thead .headerSortDown,
+.tablesorter-default thead .tablesorter-headerSortDown,
+.tablesorter-default thead .tablesorter-headerDesc {
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAECAYAAABhnXSoAAAABHNCSVQICAgIfAhkiAAAAHtJREFUGJVjZMADJCUlVfn4+IQYGBgY/v//Dxf/+vXr56dPn17DpxcnqKiomHj37t1/d+7c+X/79u3/N2/e/H/jxo3/ra2tK8kyEAbS0tJq7ty58+/OnTv/b968+a+kpGQSIyMjE0WGMjAwMPj5+SWcOHHibUxMTCkx6gHI7jVj0RRbJAAAAABJRU5ErkJggg==);
+	border-bottom: #ff79c6 2px solid;
+}
+.tablesorter-default thead .sorter-false {
+	background-image: none;
+	cursor: default;
 }
