@@ -3,12 +3,14 @@
 
 title: CryptoTrendz
 author:
-  name: EchtOps - NextGen Cloud Stack
+  name: EchtOps - Reliable and Affordable Web3 Ops
   email: connect@echtops.com
 
 # If you want to omit the line-break after the end of text, use `>-` instead.
+tagline: Stay updated with 100% organic insights.
+
 description: >
-  Stay ahead in the network with curated and 100% organic insights.
+  Stay informed about the cryptocurrency market with authoritative, data-driven insights tailored for professionals and investors.
 
 # Build settings
 theme: minima
