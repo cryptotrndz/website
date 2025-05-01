@@ -7,5 +7,5 @@ Disallow: /
 
 User-agent: *
 Allow: /
-Sitemap: https://cryptotrendz.echtops.com/sitemap.xml
+Sitemap: https://ctrendz.opsbyte.com/sitemap.xml
 
