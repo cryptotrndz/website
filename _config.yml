@@ -3,8 +3,8 @@
 
 title: CryptoTrendz
 author:
-  name: EchtOps - Reliable and Affordable Web3 Ops
-  email: connect@echtops.com
+  name: OpsByte - Reliable and Affordable Web3 Ops
+  email: info@opsbyte.com
 
 # If you want to omit the line-break after the end of text, use `>-` instead.
 tagline: Stay updated with 100% organic insights.
@@ -56,7 +56,7 @@ minima:
      url: "https://www.instagram.com/cryptotrndz/"
    - title: RSS Feeds
      icon: readme
-     url: "https://cryptoTrendz.echtops.com/feed.xml"
+     url: "https://ctrendz.opsbyte.com/feed.xml"
 
 # Let's Paginate
 paginate: 8

@@ -14,15 +14,15 @@ All data, content, and information available on our website and our social media
 
 Selling, licensing, or otherwise commercially exploiting any Data obtained from our website and our social media channels.
 
-Republishing, reproducing, or distributing Data for any commercial purposes without explicit prior written permission from EchtOps.
+Republishing, reproducing, or distributing Data for any commercial purposes without explicit prior written permission from OpsByte.
 
 Using Data for the development of commercial products, services, or platforms without authorization.
 
 ### 3. Permitted Use  
-Users may access and use the curated Data for personal, non-commercial, and research purposes, provided such use complies with applicable laws and this Policy. Any use beyond these limitations requires explicit permission from EchtOps.
+Users may access and use the curated Data for personal, non-commercial, and research purposes, provided such use complies with applicable laws and this Policy. Any use beyond these limitations requires explicit permission from OpsByte.
 
 ### 4. Intellectual Property Rights  
-All curated Data on our website and our social media channels is the intellectual property of EchtOps or its licensors. Unauthorized use, reproduction, or distribution of this Data constitutes a violation of intellectual property laws and may result in legal action.
+All curated Data on our website and our social media channels is the intellectual property of OpsByte or its licensors. Unauthorized use, reproduction, or distribution of this Data constitutes a violation of intellectual property laws and may result in legal action.
 
 ### 5. Enforcement and Penalties  
 Violation of this Policy may result in:
@@ -36,6 +36,6 @@ We reserve the right to modify this Policy at any time without prior notice. Con
 
 ### 7. Contact Information  
 For inquiries regarding data usage or to request permissions, contact us at  
-📧 [connect@echtops.com](mailto:connect@echtops.com) .
+📧 [info@opsbyte.com](mailto:info@opsbyte.com) .
 
-*Thank you for trusting CryptoTrendz*. 😊  
+*Thank you for trusting CryptoTrendz by OpsByte*. 😊  

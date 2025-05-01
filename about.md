@@ -25,6 +25,6 @@ permalink: /about/
 
 ### 📬 Contact Us :  
 
-For Partnership, Crypto AI Services or Any Enquiry, We’re here to help. You may reach out to us at 📧 [connect@echtops.com](mailto:connect@echtops.com) .
+For Partnership, Crypto AI Services or Any Enquiry, We’re here to help. You may reach out to us at 📧 [info@opsbyte.com](mailto:info@opsbyte.com) .
 
 *Thank you for trusting CryptoTrendz*. 😊  
