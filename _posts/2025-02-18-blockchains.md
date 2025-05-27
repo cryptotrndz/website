@@ -3,7 +3,7 @@ layout: post
 title: "📊 Weekly Pulse: Top Blockchains"
 description: "[Blockchains of the Week] - Check who ranked first this week in address, transactions and TVL"
 keywords: #SOL #chains #trends #tokenomics #mining #offchain #derivatives #unlocks #web3 #airdrop
-categories: weekly
+categories: data
 ---
 
 ##### 🏷️ Weekly Pulse: - 📌 *Top Blockchains ⏰Feb.18.2025*

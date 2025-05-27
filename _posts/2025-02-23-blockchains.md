@@ -3,7 +3,7 @@ layout: post
 title: "📊 Weekly Pulse: Top Blockchains"
 description: "[Organically Top Blockchains of the Week] - Check who ranked first this week in address, transactions and TVL"
 keywords: bearmarket, cryptotrendz, payments, minting, mining, Polygon, btc, solana, staking, dapps
-categories: weekly
+categories: data
 ---
 
 ##### ✴ Weekly Pulse - 📌 *Top Blockchains ⏰Feb.23.2025*

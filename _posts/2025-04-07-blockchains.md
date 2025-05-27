@@ -3,7 +3,7 @@ layout: post
 title: "📊 Weekly Pulse: Organic Chain Performance"
 description: "[Organically Top Blockchains of the Week] - Check who ranked first this week in address, transactions and TVL"
 keywords: DeFi, ETH, assets, bitcoin, DEX, dapps, DAO, blockchains, investment, SOL, web3
-categories: weekly
+categories: data
 ---
 
 ##### ✴ Weekly Pulse - 📌 *Organically Chain Performance ⏰Apr.07.2025*
