@@ -13,7 +13,7 @@ Chainlink surges 299% as whales stir amid a $693M sell-off. Solaxy ($SOLX) presa
 
 #### *🔖 Reg and Policy:*  
 
-🔹Thailand will block Bybit, OKX, and more crypto exchanges June *([source](httpss.avyag.com/5lj9){:target="_blank" rel="nofollow noopener"})*.  
+🔹Thailand will block Bybit, OKX, and more crypto exchanges June *([source](https://s.avyag.com/5lj9){:target="_blank" rel="nofollow noopener"})*.  
 
 🔹The SEC's staking guidance is seen as a major step forward for the US crypto industry *([source](https://s.avyag.com/42q0){:target="_blank" rel="nofollow noopener"})*.  
 
