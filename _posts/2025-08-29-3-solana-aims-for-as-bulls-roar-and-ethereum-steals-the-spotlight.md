@@ -19,7 +19,9 @@ Solana surges 16% as hype and golden cross fuel $260 target. Ethereum steals spo
 
 🔹Market watchers remain optimistic about Solana’s growth in the upcoming months *([Source](https://s.avyag.com/qezi){:target="_blank" rel="nofollow noopener"})*.  
 
-🔹However, volatility could test the current rally’s strength. #### *🔖  Market Trends & Insights:*  
+🔹However, volatility could test the current rally’s strength.
+
+#### *🔖  Market Trends & Insights:*  
 
 🔹Ethereum continues to attract investor attention, surpassing Bitcoin in ETF inflows with over $1.2 billion during market lull periods *([Source](https://s.avyag.com/8qa7){:target="_blank" rel="nofollow noopener"})*.  
 

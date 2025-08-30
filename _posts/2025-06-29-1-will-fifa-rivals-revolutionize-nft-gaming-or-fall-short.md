@@ -59,7 +59,9 @@ FIFA Rivals offers an intriguing NFT soccer experience. Meanwhile, scammers are 
 
 🔹A senior bank VP defrauds their employer of $411,923 using fake documents over six years *([Source](https://s.avyag.com/53dn){:target="_blank" rel="nofollow noopener"})*.  
 
-🔹--- **Sponsor** #### *🔖  Company Overview:*  
+🔹--- **Sponsor**
+
+#### *🔖  Company Overview:*  
 
 
 

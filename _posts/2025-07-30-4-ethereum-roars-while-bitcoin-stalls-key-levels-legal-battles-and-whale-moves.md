@@ -29,7 +29,9 @@ Ethereum dominates headlines.BlackRock buys 4x more ETH than BTC, and Tom Lee ha
 
 🔹Meanwhile, Algeria has imposed harsh bans, jail time, and fines up to $7,700 for crypto users and miners, drastically impacting local adoption *([Source](https://s.avyag.com/xamz){:target="_blank" rel="nofollow noopener"})*.  
 
-🔹These steps indicate a global shift towards stricter crypto regulations and compliance. #### *🔖  Corporate & Institutional Moves:*  
+🔹These steps indicate a global shift towards stricter crypto regulations and compliance.
+
+#### *🔖  Corporate & Institutional Moves:*  
 
 🔹BlackRock has aggressively increased its Ethereum holdings, buying four times more ETH than Bitcoin, showing institutional interest *([Source](https://s.avyag.com/5y9z){:target="_blank" rel="nofollow noopener"})*.  
 

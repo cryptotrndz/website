@@ -43,7 +43,9 @@ Webull launches crypto in Australia, eyeing disruption. ADA shows signs of momen
 
 🔹Governments and leaders are increasingly recognizing blockchain’s potential, shaping its future development and adoption *([Source](https://s.avyag.com/m4p3){:target="_blank" rel="nofollow noopener"})*.  
 
-🔹Regulatory clarity will likely determine the pace of institutional integration and market growth. #### *🔖  Altcoins and Market Sentiment:*  
+🔹Regulatory clarity will likely determine the pace of institutional integration and market growth.
+
+#### *🔖  Altcoins and Market Sentiment:*  
 
 🔹XRP remains in a consolidation zone with potential for a surge to $5 if wave 3 momentum builds *([Source](https://s.avyag.com/gdvq){:target="_blank" rel="nofollow noopener"})*.  
 

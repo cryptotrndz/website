@@ -17,7 +17,9 @@ Moonbirds NFTs are flying high again, while altcoins like BDAG, ADA, and ETH hin
 
 🔹These fluctuations highlight evolving investor sentiment and fresh market catalysts. The overall trend suggests a bullish outlook but with ongoing volatility *([Source](https://s.avyag.com/89r8){:target="_blank" rel="nofollow noopener"})*.  
 
-🔹Staying informed on key technicals and macro events is crucial for traders. #### *🔖  Major Crypto Developments:*  
+🔹Staying informed on key technicals and macro events is crucial for traders.
+
+#### *🔖  Major Crypto Developments:*  
 
 🔹Several companies and projects are making waves. Gemini's plans for a Nasdaq IPO and massive trading volumes mark mainstream adoption progress *([Source](https://s.avyag.com/6eeb){:target="_blank" rel="nofollow noopener"})*.  
 

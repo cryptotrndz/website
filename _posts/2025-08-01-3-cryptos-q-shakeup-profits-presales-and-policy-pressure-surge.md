@@ -15,15 +15,21 @@ Robinhoods diverse push sparks strong Q2 growth, while Tether nets $4.9B profit.
 
 🔹Market Trends and Price Movements:*  
 
-🔹Robinhood’s diversified offerings are fueling significant growth in Q2, highlighting broader investment shifts. Bitcoin hit record prices, enabling its first profit in six quarters, though some analysts note a healthy rotation among OG Bitcoiners. Meanwhile, Bitcoin dipped below $115K as political uncertainties stress investors, and ETH’s recovery outpaces Bitcoin despite constant selling at the $4K mark, driven by strong demand. Crypto treasury firms made waves with an $8 billion buying spree, indicating bullish sentiment. *([Source](https://s.avyag.com/newslink1){:target="_blank" rel="nofollow noopener"})* #### *🔖 2:*  
+🔹Robinhood’s diversified offerings are fueling significant growth in Q2, highlighting broader investment shifts. Bitcoin hit record prices, enabling its first profit in six quarters, though some analysts note a healthy rotation among OG Bitcoiners. Meanwhile, Bitcoin dipped below $115K as political uncertainties stress investors, and ETH’s recovery outpaces Bitcoin despite constant selling at the $4K mark, driven by strong demand. Crypto treasury firms made waves with an $8 billion buying spree, indicating bullish sentiment. *([Source](https://s.avyag.com/newslink1){:target="_blank" rel="nofollow noopener"})*
+
+#### *🔖 2:*  
 
 🔹Regulatory and Legal Developments:*  
 
-🔹Regulations are gaining momentum globally, with Hong Kong launching its stablecoin licensing regime aiming to become a crypto hub. US regulators seek clarity, with Michael Saylor advocating for well-defined crypto laws and legal frameworks. Democrats are scrutinizing conflicts involving Trump's stablecoin initiatives, emphasizing the need for clearer regulations to foster industry growth. Regulatory clarity is vital for sustainable expansion in digital assets. *([Source](https://s.avyag.com/lyqb){:target="_blank" rel="nofollow noopener"})* #### *🔖 3:*  
+🔹Regulations are gaining momentum globally, with Hong Kong launching its stablecoin licensing regime aiming to become a crypto hub. US regulators seek clarity, with Michael Saylor advocating for well-defined crypto laws and legal frameworks. Democrats are scrutinizing conflicts involving Trump's stablecoin initiatives, emphasizing the need for clearer regulations to foster industry growth. Regulatory clarity is vital for sustainable expansion in digital assets. *([Source](https://s.avyag.com/lyqb){:target="_blank" rel="nofollow noopener"})*
+
+#### *🔖 3:*  
 
 🔹Altcoins and Market Performance:*  
 
-🔹XRP surprisingly outperformed in Coinbase earnings, while shifting token trends now favor XRP over Ethereum in transaction revenues. However, XRP faces a potential price crash to $2.15 if buying momentum wanes. Solana, XRP, and Dogecoin faced extended losses, reflecting recent market pressures. Industry concerns rise over crypto hacks, with July losses surpassing $142 million, CoinDCX suffering significant insider threats. *([Source](https://s.avyag.com/xes6){:target="_blank" rel="nofollow noopener"})* #### *🔖 4:*  
+🔹XRP surprisingly outperformed in Coinbase earnings, while shifting token trends now favor XRP over Ethereum in transaction revenues. However, XRP faces a potential price crash to $2.15 if buying momentum wanes. Solana, XRP, and Dogecoin faced extended losses, reflecting recent market pressures. Industry concerns rise over crypto hacks, with July losses surpassing $142 million, CoinDCX suffering significant insider threats. *([Source](https://s.avyag.com/xes6){:target="_blank" rel="nofollow noopener"})*
+
+#### *🔖 4:*  
 
 🔹Industry Insights and Innovations:*  
 

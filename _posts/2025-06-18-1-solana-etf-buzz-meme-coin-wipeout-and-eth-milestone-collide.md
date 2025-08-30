@@ -49,7 +49,9 @@ Solaxy, the first Solana Layer-2, gains buzz as Solana ETF nears approval. Eigen
 
 🔹RWA issuers work to ensure a 1:1 peg with tokenized assets, strengthening trust *([Source](https://s.avyag.com/3inf){:target="_blank" rel="nofollow noopener"})*.  
 
-🔹Will Tron's Wall Street ambitions collapse with TRX as collateral? *([Source](https://s.avyag.com/judm){:target="_blank" rel="nofollow noopener"})* #### *🔖 Technical Analysis & Predictions:*  
+🔹Will Tron's Wall Street ambitions collapse with TRX as collateral? *([Source](https://s.avyag.com/judm){:target="_blank" rel="nofollow noopener"})*
+
+#### *🔖 Technical Analysis & Predictions:*  
 
 🔹Ethereum’s golden cross suggests a move toward $3,000 is likely *([Source](https://s.avyag.com/w8h0){:target="_blank" rel="nofollow noopener"})*.  
 

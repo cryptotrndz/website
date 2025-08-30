@@ -17,7 +17,9 @@ PowerBank teams up with Intellistake to lead RWA tokenization and Bitcoin treasu
 
 🔹Their collaboration marks a significant step toward mainstreaming digital assets. Advanced tokenization methods are being integrated to create new financial opportunities *([Source](https://s.avyag.com/gz2h){:target="_blank" rel="nofollow noopener"})*.  
 
-🔹This move will catalyze innovative financial products in Web3. #### *🔖  Cryptocurrency Market Highlights:*  
+🔹This move will catalyze innovative financial products in Web3.
+
+#### *🔖  Cryptocurrency Market Highlights:*  
 
 🔹Ethereum's tenth anniversary saw Pepeto raise over $5.77 million in its presale, showcasing strong investor interest *([Source](https://s.avyag.com/f62w){:target="_blank" rel="nofollow noopener"})*.  
 

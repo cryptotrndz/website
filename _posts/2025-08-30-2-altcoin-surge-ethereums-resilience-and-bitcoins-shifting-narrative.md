@@ -19,7 +19,9 @@ Ethereum rally gains steam, with Solana and Dogwifhat following suit. Chainlink 
 
 🔹Dogecoin aims for $0.31 if bulls manage to defend $0.21 *([Source](https://s.avyag.com/54lf){:target="_blank" rel="nofollow noopener"})*.  
 
-🔹Speculative forecasts create excitement across the crypto space. #### *🔖  Industry Developments & Trends:*  
+🔹Speculative forecasts create excitement across the crypto space.
+
+#### *🔖  Industry Developments & Trends:*  
 
 🔹Ethereum's bullish momentum continues, with signs pointing to the market not being over $5K *([Source](https://s.avyag.com/ysjk){:target="_blank" rel="nofollow noopener"})*.  
 

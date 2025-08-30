@@ -31,7 +31,9 @@ Zora jumps 43% as token creation spikes; Uniswap eyes legal clarity. Ethereum be
 
 🔹Legal certainty is crucial for sustainable growth, enabling innovation without regulatory hurdles *([Source](https://s.avyag.com/yy78){:target="_blank" rel="nofollow noopener"})*.  
 
-🔹Clear rules will underpin the future of blockchain-based finance. #### *🔖  Project & Product Updates:*  
+🔹Clear rules will underpin the future of blockchain-based finance.
+
+#### *🔖  Project & Product Updates:*  
 
 🔹OpsByte's Cryptotrendz offers real-time, organic data on Web3 and blockchain industry trends *([Source](https://s.avyag.com/3l01){:target="_blank" rel="nofollow noopener"})*.  
 

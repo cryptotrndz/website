@@ -61,7 +61,9 @@ Bitcoin is showing potential with a 4-year inverse H&S pattern, and a breakout c
 
 🔹Ethereum reclaimed $2,500 in a squeeze-driven rally, but its sustainability is questioned *([Source](https://s.avyag.com/sd02){:target="_blank" rel="nofollow noopener"})*.  
 
-🔹--- **Sponsor** #### *🔖  Overview:*  
+🔹--- **Sponsor**
+
+#### *🔖  Overview:*  
 
 🔹OpsByte Technologies is a leading Web3 and AI solutions company, specializing in automation and data *([Source](https://s.avyag.com/newslink1){:target="_blank" rel="nofollow noopener"})*.  
 
