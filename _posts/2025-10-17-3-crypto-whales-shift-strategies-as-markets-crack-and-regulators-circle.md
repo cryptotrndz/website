@@ -13,12 +13,16 @@ Uniswap taps into a $140B Solana opportunity, and Shiba Inu sees its biggest bur
 
 #### *🔖 Market Trends and Price Watch:*  
 
-🔹Bitcoin tests support near 111K after failing to extend highs. Bears keep pressure while buyers appear in bouts. XRP and other tokens wobble as risk mood shifts. Traders watch for breaks and quick reversals ahead. #### *🔖 Regulatory and Policy Updates:*  
+🔹Bitcoin tests support near 111K after failing to extend highs. Bears keep pressure while buyers appear in bouts. XRP and other tokens wobble as risk mood shifts. Traders watch for breaks and quick reversals ahead.
+#### *🔖 Regulatory and Policy Updates:*  
 
-🔹Florida reboots a crypto reserve bill after a poor showing. Ghana aims to roll out crypto rules by December. Global focus grows on guardrails, audits, and compliance. ETF filings surge, signaling growing institutional interest. #### *🔖 Treasuries and Corporate Moves:*  
+🔹Florida reboots a crypto reserve bill after a poor showing. Ghana aims to roll out crypto rules by December. Global focus grows on guardrails, audits, and compliance. ETF filings surge, signaling growing institutional interest.
+#### *🔖 Treasuries and Corporate Moves:*  
 
-🔹Ripple plans to raise 1 billion for an XRP treasury. Ripple also eyes buying more XRP to fund the treasury. The buzz around crypto treasuries fuels investor debate. Analysts weigh liquidity gains against hype risk. #### *🔖 Platform Developments and Ecosystem:*  
+🔹Ripple plans to raise 1 billion for an XRP treasury. Ripple also eyes buying more XRP to fund the treasury. The buzz around crypto treasuries fuels investor debate. Analysts weigh liquidity gains against hype risk.
+#### *🔖 Platform Developments and Ecosystem:*  
 
-🔹Uniswap adds Solana support on its web app. Ethereum correction fuels debate over its next move. Binance funding rates hint at volatility in ETH pricing. Industry chatter links cross‑chain use to broader liquidity. #### *🔖 Investment Outlook and Speculation:*  
+🔹Uniswap adds Solana support on its web app. Ethereum correction fuels debate over its next move. Binance funding rates hint at volatility in ETH pricing. Industry chatter links cross‑chain use to broader liquidity.
+#### *🔖 Investment Outlook and Speculation:*  
 
 🔹More than five crypto ETFs filed this week as ETFtober grows. Tom Lee says Ethereum could flip Bitcoin, echoing bold bets. Presales gain attention as Ripple eyes a $1B XRP treasury. Analysts weigh opportunities and risks in the new cycle.

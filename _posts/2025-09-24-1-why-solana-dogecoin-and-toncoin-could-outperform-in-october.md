@@ -27,7 +27,8 @@ DOGE holds firm at $0.23 as bulls eye $0.38; ADA aims for $1.50 while fending of
 
 🔹Bitcoin faces $40M in net liquidations, indicating downside risks. Analysts warn that bearish trends could persist amid caution in the market *([Source](https://s.avyag.com/dexx){:target="_blank" rel="nofollow noopener"})*.  
 
-🔹The overall sentiment remains cautious for now. #### *🔖 Altcoins and Technical Predictions:*  
+🔹The overall sentiment remains cautious for now.
+#### *🔖 Altcoins and Technical Predictions:*  
 
 🔹Bonk holds $0.000020 support despite a sell-off, with hopes to retest $0.000032. Solana shows oversold conditions and could recover past $236. Technicals hint at potential rebounds *([Source](https://s.avyag.com/ysta){:target="_blank" rel="nofollow noopener"})* and *([Source](https://s.avyag.com/a0qo){:target="_blank" rel="nofollow noopener"})*.  
 

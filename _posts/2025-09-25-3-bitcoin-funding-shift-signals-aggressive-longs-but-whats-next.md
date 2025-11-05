@@ -39,7 +39,8 @@ Stellar eyes $0.5 as strength builds; Ethereums PeerDAS promises L2 scaling boos
 
 🔹A market maker files an ETF to track crypto treasury firms, indicating institutional interest *([Source](https://s.avyag.com/w8cq){:target="_blank" rel="nofollow noopener"})*.  
 
-🔹Such developments indicate growing mainstream integration of crypto assets (source). #### *🔖  Market Events and Asset Performance:*  
+🔹Such developments indicate growing mainstream integration of crypto assets (source).
+#### *🔖  Market Events and Asset Performance:*  
 
 🔹Bitcoin traders booked $120M profits amid price drops, showing resilience *([Source](https://s.avyag.com/uldl){:target="_blank" rel="nofollow noopener"})*.  
 

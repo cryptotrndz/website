@@ -13,6 +13,7 @@ Maria Corina Machado wins the Nobel Peace Prize, stirring buzz as a possible Bit
 
 #### *🔖  Market Trends and Prices:*  
 
-🔹Markets show mixed moves as traders weigh volatility. [source](https://s.avyag.com/zxr7) Floki Inu stabilizes near key support, signaling a potential bounce. [source](https://s.avyag.com/lzr8) BTC eyes a rebound while ETH and others show resilience. [source](https://s.avyag.com/8sac) Bitcoin dominance shifts as funds rotate across assets. [source](https://s.avyag.com/sn8c) #### *🔖  Corporate and Institutional Movements:*  
+🔹Markets show mixed moves as traders weigh volatility. [source](https://s.avyag.com/zxr7) Floki Inu stabilizes near key support, signaling a potential bounce. [source](https://s.avyag.com/lzr8) BTC eyes a rebound while ETH and others show resilience. [source](https://s.avyag.com/8sac) Bitcoin dominance shifts as funds rotate across assets. [source](https://s.avyag.com/sn8c)
+#### *🔖  Corporate and Institutional Movements:*  
 
 🔹Morgan Stanley opens crypto funds to all clients. [source](https://s.avyag.com/cin6) Banks explore joint stablecoins, signaling a new era. [source](https://s.avyag.com/5qe8) Crypto industry gains momentum with ICE and major players. [source](https://s.avyag.com/1dwc) Kalshi raises 300M, expanding access across 140 countries

@@ -13,11 +13,14 @@ DOGE jumps 40%, eyeing $1 as meme coin mania reignites. Ethereum targets $5K wit
 
 #### *🔖 Dogecoin Momentum:*  
 
-🔹DOGE targets $0.60 [source](https://s.avyag.com/3ykd) Traders eye more upside [source](https://s.avyag.com/cxnv) Speculation fuels moves [source](https://s.avyag.com/6luu) BTC cues help DOGE [source](https://s.avyag.com/ha6u) #### *🔖 Market Developments:*  
+🔹DOGE targets $0.60 [source](https://s.avyag.com/3ykd) Traders eye more upside [source](https://s.avyag.com/cxnv) Speculation fuels moves [source](https://s.avyag.com/6luu) BTC cues help DOGE [source](https://s.avyag.com/ha6u)
+#### *🔖 Market Developments:*  
 
-🔹Grayscale CEO speaks on XRP/ETP launches [source](https://s.avyag.com/rurm) Institutions want treasuries [source](https://s.avyag.com/ha6u) XRP ETF debut rising [source](https://s.avyag.com/6luu) AU pension funds eye crypto [source](https://s.avyag.com/0h5w) #### *🔖 Tech Upgrades and Outlook:*  
+🔹Grayscale CEO speaks on XRP/ETP launches [source](https://s.avyag.com/rurm) Institutions want treasuries [source](https://s.avyag.com/ha6u) XRP ETF debut rising [source](https://s.avyag.com/6luu) AU pension funds eye crypto [source](https://s.avyag.com/0h5w)
+#### *🔖 Tech Upgrades and Outlook:*  
 
-🔹ETH bulls target $5K [source](https://s.avyag.com/a6gv) Fusaka upgrade in December [source](https://s.avyag.com/xcfm) Bitcoin quantum risk discussed [source](https://s.avyag.com/91mi) BTC/ETH paths mapped [source](https://s.avyag.com/p6ut) #### *🔖 New Horizons:*  
+🔹ETH bulls target $5K [source](https://s.avyag.com/a6gv) Fusaka upgrade in December [source](https://s.avyag.com/xcfm) Bitcoin quantum risk discussed [source](https://s.avyag.com/91mi) BTC/ETH paths mapped [source](https://s.avyag.com/p6ut)
+#### *🔖 New Horizons:*  
 
 🔹Presales and Mining:*  
 

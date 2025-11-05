@@ -13,10 +13,13 @@ Coinbase hints at “cool new products,” while Binance whales stack ETH, fueli
 
 #### *🔖  Market Trends & BTC Momentum:*  
 
-🔹BTC looks for direction this week as traders watch key levels. A bullish weekly close hints at more upside toward six figures. ETH flows and whale activity spark fresh market chatter. Volume thinness keeps sentiment fragile but hopeful. #### *🔖  Regulation & Policy:*  
+🔹BTC looks for direction this week as traders watch key levels. A bullish weekly close hints at more upside toward six figures. ETH flows and whale activity spark fresh market chatter. Volume thinness keeps sentiment fragile but hopeful.
+#### *🔖  Regulation & Policy:*  
 
-🔹SEC actions loom as crypto firms brace for clearer rules. France hints at blocks for licensed EU crypto companies. UK groups push back as BoE stablecoin limits spark debate. Korea cracks down as scam accomplices face jail terms. #### *🔖  Platform & Ecosystem Updates:*  
+🔹SEC actions loom as crypto firms brace for clearer rules. France hints at blocks for licensed EU crypto companies. UK groups push back as BoE stablecoin limits spark debate. Korea cracks down as scam accomplices face jail terms.
+#### *🔖  Platform & Ecosystem Updates:*  
 
-🔹Coinbase CEO teases new products arriving in weeks. ETFs and staking appetite lift Ethereum momentum. Polkadot raises DOT cap, reshaping supply dynamics. Ethereum Foundation launches AI team to guide future roadmap. #### *🔖  Altcoins & Opportunities:*  
+🔹Coinbase CEO teases new products arriving in weeks. ETFs and staking appetite lift Ethereum momentum. Polkadot raises DOT cap, reshaping supply dynamics. Ethereum Foundation launches AI team to guide future roadmap.
+#### *🔖  Altcoins & Opportunities:*  
 
 🔹Dogecoin targets a breakout as analysts flag resistance. PUMP token surges 40% over the weekend. XRP holds firm near key support as bulls gather. SHIB and other altcoins show mixed next-move signals.

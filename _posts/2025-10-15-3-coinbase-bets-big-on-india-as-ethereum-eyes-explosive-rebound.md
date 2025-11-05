@@ -13,10 +13,13 @@ Coinbase doubles down on India with a bold CoinDCX investment. Ethereum eyes $3,
 
 #### *🔖  Investments & Corporate Moves:*  
 
-🔹Coinbase backs CoinDCX to boost its regional footprint. The move targets India, South Asia, and the Middle East. It mirrors a trend of exchanges expanding local access. Observers view it as investing in crypto infrastructure. #### *🔖  Market Trends & Price Signals:*  
+🔹Coinbase backs CoinDCX to boost its regional footprint. The move targets India, South Asia, and the Middle East. It mirrors a trend of exchanges expanding local access. Observers view it as investing in crypto infrastructure.
+#### *🔖  Market Trends & Price Signals:*  
 
-🔹Ethereum tests support near $3,800, sparking a potential rally. XRP eyes a key upside breakout as bulls regain control. Bitcoin could slip again before fresh highs, says traders. Market volatility keeps risk levels elevated. #### *🔖  Tech & Protocol Developments:*  
+🔹Ethereum tests support near $3,800, sparking a potential rally. XRP eyes a key upside breakout as bulls regain control. Bitcoin could slip again before fresh highs, says traders. Market volatility keeps risk levels elevated.
+#### *🔖  Tech & Protocol Developments:*  
 
-🔹Ether faces supply dynamics that could push a move. Sorare backs Ethereum despite Solana upgrade. OwlTing's Nasdaq listing marks fintech infra progress. Bitcoin treasuries rise as institutions accumulate. #### *🔖  Regulatory, Security & Market Risk:*  
+🔹Ether faces supply dynamics that could push a move. Sorare backs Ethereum despite Solana upgrade. OwlTing's Nasdaq listing marks fintech infra progress. Bitcoin treasuries rise as institutions accumulate.
+#### *🔖  Regulatory, Security & Market Risk:*  
 
 🔹Jamie Dimon dodges Bitcoin talk amid threats. US-China tensions spark a crypto market wipeout. Ripple custody expands into Africa, widening access. Regulatory and security questions shadow the space.

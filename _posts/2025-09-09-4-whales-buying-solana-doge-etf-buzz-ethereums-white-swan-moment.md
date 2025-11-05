@@ -13,10 +13,13 @@ Solana whales scoop up 376K tokens, and CleanCore’s $285M DOGE buy hints at a 
 
 #### *🔖 Market Trends & Investor Demand:*  
 
-🔹Bitcoin hits new highs as rate cuts fuel risk appetite. ETF chatter drives inflows and market optimism. Markets see a mature bull phase with steady supply absorption. Major headlines indicate continued volatility and upside potential. #### *🔖 Institutional & Corporate Moves:*  
+🔹Bitcoin hits new highs as rate cuts fuel risk appetite. ETF chatter drives inflows and market optimism. Markets see a mature bull phase with steady supply absorption. Major headlines indicate continued volatility and upside potential.
+#### *🔖 Institutional & Corporate Moves:*  
 
-🔹BBVA taps Ripple for European custody of crypto assets. Nasdaq seeks access to Gemini's crypto services via investment. Ant Puts billions in energy assets for blockchain use. XRP bags decline as traders rethink coin flows. #### *🔖 Tokens & Memes Outlook:*  
+🔹BBVA taps Ripple for European custody of crypto assets. Nasdaq seeks access to Gemini's crypto services via investment. Ant Puts billions in energy assets for blockchain use. XRP bags decline as traders rethink coin flows.
+#### *🔖 Tokens & Memes Outlook:*  
 
-🔹Cardano, Remittix and Polkadot attract bullish bets. DOGE price targets rise with ETF talk and meme momentum. Meme coins see bursts as DOGE and Shiba Inu trend higher. Whales accumulate Solana as token rotation continues. #### *🔖 Security, Risks & Market Dynamics:*  
+🔹Cardano, Remittix and Polkadot attract bullish bets. DOGE price targets rise with ETF talk and meme momentum. Meme coins see bursts as DOGE and Shiba Inu trend higher. Whales accumulate Solana as token rotation continues.
+#### *🔖 Security, Risks & Market Dynamics:*  
 
 🔹NPM exploit highlights crypto security gaps. Whales move and big wallets shift amid market shifts. Bitcoin miners liquidate BTC as energy and demand mix. Hyperliquid and futures twists add retail pressure.

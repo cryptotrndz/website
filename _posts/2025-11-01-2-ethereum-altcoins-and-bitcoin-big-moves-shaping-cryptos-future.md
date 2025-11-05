@@ -13,10 +13,13 @@ Bitcoins price may surge to $140K as liquidity clusters fuel a potential V-shape
 
 #### *🔖  Bitcoin & Market Pulse:*  
 
-🔹Bitcoin eyes a breakout as liquidity hints spark a tilt higher [source](https://s.avyag.com/vg7w). BTC sits at a do-or-die level, testing the cycle [source](https://s.avyag.com/dl1b). Saylor still sees BTC hitting 150K by 2025 [source](https://s.avyag.com/0utw). Regulatory actions tighten how BTC services operate [source](https://s.avyag.com/qjj1). #### *🔖  Ethereum & Smart Contracts:*  
+🔹Bitcoin eyes a breakout as liquidity hints spark a tilt higher [source](https://s.avyag.com/vg7w). BTC sits at a do-or-die level, testing the cycle [source](https://s.avyag.com/dl1b). Saylor still sees BTC hitting 150K by 2025 [source](https://s.avyag.com/0utw). Regulatory actions tighten how BTC services operate [source](https://s.avyag.com/qjj1).
+#### *🔖  Ethereum & Smart Contracts:*  
 
-🔹Ethereum eyes a breakout toward 7,800 after flipping resistance [source](https://s.avyag.com/o4x6). Bitmine snapped up 44,036 ETH for a $166M dip play [source](https://s.avyag.com/p8sn). Analysts say ETH could lead a broad rally [source](https://s.avyag.com/t0wp). Dino cryptos may attract institutions chasing alt exposure [source](https://s.avyag.com/4iwk). #### *🔖  Altcoins & Market Sentiment:*  
+🔹Ethereum eyes a breakout toward 7,800 after flipping resistance [source](https://s.avyag.com/o4x6). Bitmine snapped up 44,036 ETH for a $166M dip play [source](https://s.avyag.com/p8sn). Analysts say ETH could lead a broad rally [source](https://s.avyag.com/t0wp). Dino cryptos may attract institutions chasing alt exposure [source](https://s.avyag.com/4iwk).
+#### *🔖  Altcoins & Market Sentiment:*  
 
-🔹Altseason signals point to a broad rally [source](https://s.avyag.com/t0wp). SHIB concerns grow as ETH nears 4K [source](https://s.avyag.com/x3fx). XRP slips in Uptober amid cautious trading [source](https://s.avyag.com/jvhb). Dogecoin plunges as whales sell [source](https://s.avyag.com/7yuv). #### *🔖  Regulation & Institutional Moves:*  
+🔹Altseason signals point to a broad rally [source](https://s.avyag.com/t0wp). SHIB concerns grow as ETH nears 4K [source](https://s.avyag.com/x3fx). XRP slips in Uptober amid cautious trading [source](https://s.avyag.com/jvhb). Dogecoin plunges as whales sell [source](https://s.avyag.com/7yuv).
+#### *🔖  Regulation & Institutional Moves:*  
 
 🔹Coinhub faces a major regulatory fine [source](https://s.avyag.com/qjj1). Galaxy Digital trims BTC holdings, stirring debate [source](https://s.avyag.com/4n1z). Saylor sticks to upbeat BTC view despite tariff shocks [source](https://s.avyag.com/0utw). Musk unveils X Chat with Bitcoin-like encryption [source](https://s.avyag.com/nbfx).

@@ -13,10 +13,13 @@ HSBC and ICBC seek stablecoin licenses in Hong Kong’s new regime. Nemo Protoco
 
 #### *🔖 MarketMomentum:*  
 
-🔹XRP surged 141% in volume, signaling demand. Bitcoin broke a key liquidity zone, with $115k near. Ethereum ETFs shed $788M in four days, signaling rotation. Fidelity launches a tokenized fund, boosting momentum. #### *🔖 InstitutionalTreasuriesAndBanking:*  
+🔹XRP surged 141% in volume, signaling demand. Bitcoin broke a key liquidity zone, with $115k near. Ethereum ETFs shed $788M in four days, signaling rotation. Fidelity launches a tokenized fund, boosting momentum.
+#### *🔖 InstitutionalTreasuriesAndBanking:*  
 
-🔹HashKey unveils a $500M digital asset treasury push. NYDIG flags tighter premiums for crypto treasuries. HSBC and ICBC eye Hong Kong stablecoin licenses. Galaxy, Jump and Multicoin lead a Solana treasury raise. #### *🔖 DeFiSecurityAndMining:*  
+🔹HashKey unveils a $500M digital asset treasury push. NYDIG flags tighter premiums for crypto treasuries. HSBC and ICBC eye Hong Kong stablecoin licenses. Galaxy, Jump and Multicoin lead a Solana treasury raise.
+#### *🔖 DeFiSecurityAndMining:*  
 
-🔹Nemo Protocol faced a $2.4M DeFi hack. Ripplecoin Mining App claims up to $10k daily income. A big SHIB whale move exited Coinbase, signaling shifts. Security remains crucial as crypto apps expand. #### *🔖 BitcoinAndAltcoinNarratives:*  
+🔹Nemo Protocol faced a $2.4M DeFi hack. Ripplecoin Mining App claims up to $10k daily income. A big SHIB whale move exited Coinbase, signaling shifts. Security remains crucial as crypto apps expand.
+#### *🔖 BitcoinAndAltcoinNarratives:*  
 
 🔹Peter Schiff mocks Tom Lee's $200K BTC call. Michael Saylor buys $217M of Bitcoin as price holds. Can XRP keep outperforming Bitcoin this cycle? Metaplanet buys the dip, strengthening a large BTC stake.

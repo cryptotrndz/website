@@ -38,7 +38,8 @@ Metaplanet eyes 210K BTC by 2027, already holding 20K as it issues 11.5M shares.
 
 🔹The new BRC-20 indexer enhances Bitcoin with advanced features, paving the way for more sophisticated use cases *([Source](https://s.avyag.com/p1tk){:target="_blank" rel="nofollow noopener"})*.  
 
-🔹These innovations reflect a broader trend of integrating detailed blockchain functionalities, elevating Bitcoin's utility. #### *🔖 
+🔹These innovations reflect a broader trend of integrating detailed blockchain functionalities, elevating Bitcoin's utility.
+#### *🔖 
 🔹Social Sentiment and Macro Trends:*  
 
 🔹Social sentiment analysis questions if Bitcoin's current price bottom is near, informing traders’ confidence *([Source](https://s.avyag.com/yief){:target="_blank" rel="nofollow noopener"})*.  
